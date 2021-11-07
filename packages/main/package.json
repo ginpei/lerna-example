@@ -4,6 +4,6 @@
     "start": "node ."
   },
   "dependencies": {
-    "project-sub": "0.0.0"
+    "@my-local-project/sub": "0.0.0"
   }
 }
