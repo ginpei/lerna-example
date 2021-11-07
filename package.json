@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "lerna-example",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
